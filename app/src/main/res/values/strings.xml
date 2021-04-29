@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fick den Dealer</string>
+    <string name="action_daten_aktualisieren" />
+    <string name="u_4">U(4)</string>
+    <string name="textview">TextView</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/neuesSpiel"
+        android:title="Neues Spiel"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Statistik"
+        android:title="Statistik"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/raus"
+        android:title="6er Raus"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/rueckgaengig"
+        android:icon="@drawable/ic_baseline_settings_backup_restore_24"
+        app:showAsAction="always"
+        android:title="TODO" />
+
+
+</menu>
